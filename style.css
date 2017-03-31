@@ -482,10 +482,11 @@ Coltec/2017
     background-color: #21FF92; }
     #footer #icon {
       padding-right: 1%; }
-    #footer .sign {
+    #footer .csign {
+      position: relative;
       display: block;
-      padding: 1%;
-      font-size: 0.5em; } }
+      padding: 2%;
+      font-size: 1.0em; } }
 /*Destaques da página*/
 .ling {
   background-color: #455D73;
